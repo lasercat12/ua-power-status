@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/lasercat12/ua-power-status/main/schema/regions.schema.json",
+  "title": "ua-power-status regions.json",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "changed_at", "source", "statuses", "regions"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "generated_at": { "$ref": "#/$defs/utc" },
+    "changed_at": { "$ref": "#/$defs/utc" },
+    "source": { "type": "string" },
+    "statuses": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["code", "emoji", "title_uk", "title_en"],
+        "properties": {
+          "code": { "type": "integer" },
+          "emoji": { "type": "string" },
+          "title_uk": { "type": "string" },
+          "title_en": { "type": "string" }
+        }
+      }
+    },
+    "regions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "slug", "name_uk", "name_en", "status", "status_code", "emoji",
+                     "title_uk", "title_en", "since", "period", "next_change"],
+        "properties": {
+          "id": { "type": "integer", "minimum": 1 },
+          "slug": { "type": ["string", "null"] },
+          "name_uk": { "type": ["string", "null"] },
+          "name_en": { "type": ["string", "null"] },
+          "status": { "$ref": "#/$defs/status" },
+          "status_code": { "type": "integer" },
+          "emoji": { "type": "string" },
+          "title_uk": { "type": "string" },
+          "title_en": { "type": "string" },
+          "since": { "oneOf": [{ "$ref": "#/$defs/utc" }, { "type": "null" }] },
+          "period": {
+            "oneOf": [
+              { "type": "null" },
+              {
+                "type": "object",
+                "required": ["start", "end"],
+                "properties": {
+                  "start": { "$ref": "#/$defs/utc" },
+                  "end": { "oneOf": [{ "$ref": "#/$defs/utc" }, { "type": "null" }] }
+                }
+              }
+            ]
+          },
+          "next_change": {
+            "oneOf": [
+              { "type": "null" },
+              {
+                "type": "object",
+                "required": ["at", "status", "status_code"],
+                "properties": {
+                  "at": { "$ref": "#/$defs/utc" },
+                  "status": { "$ref": "#/$defs/status" },
+                  "status_code": { "type": "integer" }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "utc": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$" },
+    "status": { "enum": ["normal", "shortage", "outage_schedules", "emergency_outages", "unknown"] }
+  }
+}

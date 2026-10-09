@@ -31,24 +31,24 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
 ```json
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T06:43:48Z",
-  "changed_at": "2026-10-09T06:43:06Z",
+  "generated_at": "2026-10-09T08:34:32Z",
+  "changed_at": "2026-10-09T07:09:47Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
-  "statuses": { "normal": { "code": 3, "emoji": "🟢", "color": "#55a349", "title_uk": "…", "title_en": "…" } },
+  "statuses": { "outage_schedules": { "code": 10, "emoji": "🔴", "color": "#e54825", "title_uk": "…", "title_en": "…" } },
   "regions": [
     {
-      "id": 8,
-      "slug": "volyn",
-      "name_uk": "Волинська область",
-      "name_en": "Volyn Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-07-01T19:00:02Z",
-      "period": null,
+      "id": 31,
+      "slug": "kyiv",
+      "name_uk": "м. Київ",
+      "name_en": "Kyiv",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-09T07:08:37Z",
+      "period": { "start": "2026-10-09T07:00:00Z", "end": "2026-10-09T09:00:00Z" },
       "next_change": null
     }
   ]
@@ -74,15 +74,15 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
 **curl + jq**
 ```bash
 curl -s https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.json \
-  | jq '.regions[] | select(.slug == "volyn") | {emoji, title_uk, since}'
+  | jq '.regions[] | select(.slug == "kyiv") | {emoji, title_uk, since, period}'
 ```
 
 **JavaScript**
 ```js
 const r = await fetch("https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.json");
 const { regions } = await r.json();
-const volyn = regions.find(x => x.slug === "volyn");
-console.log(volyn.emoji, volyn.title_uk);
+const kyiv = regions.find(x => x.slug === "kyiv");
+console.log(kyiv.emoji, kyiv.title_uk);
 ```
 
 **Python**

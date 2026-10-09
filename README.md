@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
   "generated_at": "2026-10-09T06:43:48Z",
   "changed_at": "2026-10-09T06:43:06Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
-  "statuses": { "normal": { "code": 3, "emoji": "🟢", "title_uk": "…", "title_en": "…" } },
+  "statuses": { "normal": { "code": 3, "emoji": "🟢", "color": "#55a349", "title_uk": "…", "title_en": "…" } },
   "regions": [
     {
       "id": 8,
@@ -44,8 +44,9 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
       "status": "normal",
       "status_code": 3,
       "emoji": "🟢",
+      "color": "#55a349",
       "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity",
+      "title_en": "Sufficient electricity is available",
       "since": "2026-07-01T19:00:02Z",
       "period": null,
       "next_change": null
@@ -60,6 +61,8 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
 | `slug`, `name_uk`, `name_en` | назва регіону; `null`, поки відповідність не перевірена |
 | `status` | `normal` · `shortage` · `outage_schedules` · `emergency_outages` · `unknown` |
 | `status_code` | числовий код стану з джерела |
+| `emoji`, `color` | значок і колір стану (як в офіційному застосунку) |
+| `title_uk`, `title_en` | назва стану |
 | `since` | з якого моменту діє поточний стан (UTC) |
 | `period` | `{ "start", "end" }` поточного періоду обмежень (UTC) або `null` |
 | `next_change` | `{ "at", "status", "status_code" }` найближчої запланованої зміни або `null` |

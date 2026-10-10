@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T05:04:03Z",
-  "changed_at": "2026-10-10T05:04:03Z",
+  "generated_at": "2026-10-10T05:38:12Z",
+  "changed_at": "2026-10-10T05:38:12Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -114,16 +114,16 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "emergency_outages",
-      "status_code": 9,
-      "emoji": "🚨",
-      "color": "#c82400",
-      "title_uk": "Увага! Застосовані аварійні відключення",
-      "title_en": "Attention! Emergency power cuts",
-      "since": "2026-10-10T04:59:54Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-10T05:36:42Z",
       "period": {
         "start": "2026-10-10T05:00:00Z",
-        "end": "2026-10-10T06:00:00Z"
+        "end": "2026-10-10T07:00:00Z"
       },
       "next_change": null
     },
@@ -177,16 +177,16 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 9,
-      "emoji": "🚨",
-      "color": "#c82400",
-      "title_uk": "Увага! Застосовані аварійні відключення",
-      "title_en": "Attention! Emergency power cuts",
-      "since": "2026-10-10T05:01:41Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-10T05:37:32Z",
       "period": {
         "start": "2026-10-10T05:00:00Z",
-        "end": "2026-10-11T08:00:00Z"
+        "end": "2026-10-10T12:00:00Z"
       },
       "next_change": null
     },
@@ -330,13 +330,13 @@
       "slug": "cherkasy",
       "name_uk": "Черкаська область",
       "name_en": "Cherkasy Oblast",
-      "status": "emergency_outages",
-      "status_code": 9,
-      "emoji": "🚨",
-      "color": "#c82400",
-      "title_uk": "Увага! Застосовані аварійні відключення",
-      "title_en": "Attention! Emergency power cuts",
-      "since": "2026-10-10T05:04:00Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-10T05:38:06Z",
       "period": {
         "start": "2026-10-10T05:00:00Z",
         "end": "2026-10-10T12:00:00Z"
@@ -411,16 +411,16 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "emergency_outages",
-      "status_code": 9,
-      "emoji": "🚨",
-      "color": "#c82400",
-      "title_uk": "Увага! Застосовані аварійні відключення",
-      "title_en": "Attention! Emergency power cuts",
-      "since": "2026-10-10T05:00:28Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-10T05:37:49Z",
       "period": {
         "start": "2026-10-10T05:00:00Z",
-        "end": "2026-10-10T07:00:00Z"
+        "end": "2026-10-10T12:00:00Z"
       },
       "next_change": null
     },

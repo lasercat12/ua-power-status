@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T05:38:12Z",
-  "changed_at": "2026-10-10T05:38:12Z",
+  "generated_at": "2026-10-10T05:39:13Z",
+  "changed_at": "2026-10-10T05:39:13Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -348,13 +348,13 @@
       "slug": "chernihiv",
       "name_uk": "Чернігівська область",
       "name_en": "Chernihiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 9,
-      "emoji": "🚨",
-      "color": "#c82400",
-      "title_uk": "Увага! Застосовані аварійні відключення",
-      "title_en": "Attention! Emergency power cuts",
-      "since": "2026-10-10T05:03:31Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-10T05:38:24Z",
       "period": {
         "start": "2026-10-10T05:00:00Z",
         "end": "2026-10-10T12:00:00Z"

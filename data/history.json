@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-10T05:39:13Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-10-10T05:38:24Z"
+  },
+  {
     "at": "2026-10-10T05:38:12Z",
     "region_id": 31,
     "slug": "kyiv",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T08:29:59Z",
-  "changed_at": "2026-10-10T08:29:59Z",
+  "generated_at": "2026-10-10T08:30:59Z",
+  "changed_at": "2026-10-10T08:30:59Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -324,17 +324,14 @@
       "slug": "cherkasy",
       "name_uk": "Черкаська область",
       "name_en": "Cherkasy Oblast",
-      "status": "outage_schedules",
-      "status_code": 10,
-      "emoji": "🔴",
-      "color": "#e54825",
-      "title_uk": "Електроенергії значно не вистачає",
-      "title_en": "Significant electricity shortages",
-      "since": "2026-10-10T05:38:06Z",
-      "period": {
-        "start": "2026-10-10T05:00:00Z",
-        "end": "2026-10-10T12:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-10T08:30:14Z",
+      "period": null,
       "next_change": null
     },
     {
@@ -342,17 +339,14 @@
       "slug": "chernihiv",
       "name_uk": "Чернігівська область",
       "name_en": "Chernihiv Oblast",
-      "status": "outage_schedules",
-      "status_code": 10,
-      "emoji": "🔴",
-      "color": "#e54825",
-      "title_uk": "Електроенергії значно не вистачає",
-      "title_en": "Significant electricity shortages",
-      "since": "2026-10-10T05:38:24Z",
-      "period": {
-        "start": "2026-10-10T05:00:00Z",
-        "end": "2026-10-10T12:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-10T08:30:26Z",
+      "period": null,
       "next_change": null
     },
     {
@@ -405,17 +399,14 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "outage_schedules",
-      "status_code": 10,
-      "emoji": "🔴",
-      "color": "#e54825",
-      "title_uk": "Електроенергії значно не вистачає",
-      "title_en": "Significant electricity shortages",
-      "since": "2026-10-10T05:37:49Z",
-      "period": {
-        "start": "2026-10-10T05:00:00Z",
-        "end": "2026-10-10T12:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-10T08:30:02Z",
+      "period": null,
       "next_change": null
     },
     {

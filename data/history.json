@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-10-11T06:56:45Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:55:27Z"
+  },
+  {
+    "at": "2026-10-11T06:56:45Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:55:27Z"
+  },
+  {
+    "at": "2026-10-11T06:56:45Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:55:27Z"
+  },
+  {
+    "at": "2026-10-11T06:56:45Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:55:27Z"
+  },
+  {
+    "at": "2026-10-11T06:56:45Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:55:27Z"
+  },
+  {
     "at": "2026-10-11T06:46:42Z",
     "region_id": 31,
     "slug": "kyiv",

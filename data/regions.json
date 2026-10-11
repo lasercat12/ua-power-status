@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T00:33:49Z",
-  "changed_at": "2026-10-11T00:33:49Z",
+  "generated_at": "2026-10-11T00:34:50Z",
+  "changed_at": "2026-10-11T00:34:50Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -264,17 +264,14 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "outage_schedules",
-      "status_code": 10,
-      "emoji": "🔴",
-      "color": "#e54825",
-      "title_uk": "Електроенергії значно не вистачає",
-      "title_en": "Significant electricity shortages",
-      "since": "2026-10-11T00:32:39Z",
-      "period": {
-        "start": "2026-10-10T21:00:00Z",
-        "end": "2026-10-11T12:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-11T00:34:11Z",
+      "period": null,
       "next_change": null
     },
     {

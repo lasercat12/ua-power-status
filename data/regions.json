@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T00:07:41Z",
-  "changed_at": "2026-10-10T13:04:21Z",
+  "generated_at": "2026-10-11T00:30:48Z",
+  "changed_at": "2026-10-11T00:30:48Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -363,10 +363,10 @@
       "color": "#e54825",
       "title_uk": "Електроенергії значно не вистачає",
       "title_en": "Significant electricity shortages",
-      "since": "2026-10-10T13:03:12Z",
+      "since": "2026-10-11T00:29:37Z",
       "period": {
-        "start": "2026-10-10T13:00:00Z",
-        "end": "2026-10-10T20:00:00Z"
+        "start": "2026-10-10T21:00:00Z",
+        "end": "2026-10-11T12:00:00Z"
       },
       "next_change": null
     },
@@ -426,10 +426,10 @@
       "color": "#e54825",
       "title_uk": "Електроенергії значно не вистачає",
       "title_en": "Significant electricity shortages",
-      "since": "2026-10-10T13:03:12Z",
+      "since": "2026-10-11T00:30:36Z",
       "period": {
-        "start": "2026-10-10T13:00:00Z",
-        "end": "2026-10-10T20:00:00Z"
+        "start": "2026-10-10T21:00:00Z",
+        "end": "2026-10-11T12:00:00Z"
       },
       "next_change": null
     },

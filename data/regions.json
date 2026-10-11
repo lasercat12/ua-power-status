@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T12:48:34Z",
-  "changed_at": "2026-10-11T11:48:16Z",
+  "generated_at": "2026-10-11T13:01:38Z",
+  "changed_at": "2026-10-11T13:01:38Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -114,16 +114,16 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:32:55Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T11:30:00Z",
-        "end": "2026-10-11T13:00:00Z"
+        "start": "2026-10-11T13:00:00Z",
+        "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
     },
@@ -177,16 +177,16 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:32:55Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T11:30:00Z",
-        "end": "2026-10-11T13:00:00Z"
+        "start": "2026-10-11T13:00:00Z",
+        "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
     },
@@ -255,16 +255,16 @@
       "slug": "poltava",
       "name_uk": "Полтавська область",
       "name_en": "Poltava Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:32:55Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T11:30:00Z",
-        "end": "2026-10-11T13:00:00Z"
+        "start": "2026-10-11T13:00:00Z",
+        "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
     },
@@ -273,16 +273,16 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:32:55Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T11:30:00Z",
-        "end": "2026-10-11T13:00:00Z"
+        "start": "2026-10-11T13:00:00Z",
+        "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
     },
@@ -306,16 +306,16 @@
       "slug": "kharkiv",
       "name_uk": "Харківська область",
       "name_en": "Kharkiv Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:32:55Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T11:30:00Z",
-        "end": "2026-10-11T13:00:00Z"
+        "start": "2026-10-11T13:00:00Z",
+        "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
     },
@@ -339,15 +339,15 @@
       "slug": "cherkasy",
       "name_uk": "Черкаська область",
       "name_en": "Cherkasy Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:46:54Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T12:00:00Z",
+        "start": "2026-10-11T13:00:00Z",
         "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
@@ -357,16 +357,16 @@
       "slug": "chernihiv",
       "name_uk": "Чернігівська область",
       "name_en": "Chernihiv Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Електроенергії не вистачає",
-      "title_en": "Limited electricity supply",
-      "since": "2026-10-11T11:32:55Z",
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-11T13:01:05Z",
       "period": {
-        "start": "2026-10-11T11:30:00Z",
-        "end": "2026-10-11T13:00:00Z"
+        "start": "2026-10-11T13:00:00Z",
+        "end": "2026-10-11T20:59:00Z"
       },
       "next_change": null
     },

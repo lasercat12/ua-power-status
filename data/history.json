@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-10-11T06:46:42Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:45:20Z"
+  },
+  {
+    "at": "2026-10-11T06:46:42Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-11T06:45:20Z"
+  },
+  {
     "at": "2026-10-11T00:36:50Z",
     "region_id": 24,
     "slug": "cherkasy",

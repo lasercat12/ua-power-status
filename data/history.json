@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-11T11:48:16Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-10-11T11:46:54Z"
+  },
+  {
     "at": "2026-10-11T11:34:11Z",
     "region_id": 25,
     "slug": "chernihiv",

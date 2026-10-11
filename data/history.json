@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-11T19:01:27Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-11T19:00:33Z"
+  },
+  {
     "at": "2026-10-11T13:01:38Z",
     "region_id": 25,
     "slug": "chernihiv",

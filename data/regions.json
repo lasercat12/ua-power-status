@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T18:03:09Z",
-  "changed_at": "2026-10-11T13:01:38Z",
+  "generated_at": "2026-10-11T19:01:27Z",
+  "changed_at": "2026-10-11T19:01:27Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -114,17 +114,14 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "outage_schedules",
-      "status_code": 10,
-      "emoji": "🔴",
-      "color": "#e54825",
-      "title_uk": "Електроенергії значно не вистачає",
-      "title_en": "Significant electricity shortages",
-      "since": "2026-10-11T13:01:05Z",
-      "period": {
-        "start": "2026-10-11T13:00:00Z",
-        "end": "2026-10-11T20:59:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-11T19:00:33Z",
+      "period": null,
       "next_change": null
     },
     {

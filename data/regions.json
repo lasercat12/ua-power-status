@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T04:03:11Z",
-  "changed_at": "2026-10-12T03:02:51Z",
+  "generated_at": "2026-10-12T04:56:27Z",
+  "changed_at": "2026-10-12T04:56:27Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -255,14 +255,17 @@
       "slug": "poltava",
       "name_uk": "Полтавська область",
       "name_en": "Poltava Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-11T19:01:35Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-12T04:55:10Z",
+      "period": {
+        "start": "2026-10-12T05:00:00Z",
+        "end": "2026-10-12T12:00:00Z"
+      },
       "next_change": null
     },
     {
@@ -270,14 +273,17 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-11T19:01:35Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-12T04:55:10Z",
+      "period": {
+        "start": "2026-10-12T05:00:00Z",
+        "end": "2026-10-12T12:00:00Z"
+      },
       "next_change": null
     },
     {
@@ -300,14 +306,17 @@
       "slug": "kharkiv",
       "name_uk": "Харківська область",
       "name_en": "Kharkiv Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-11T19:01:35Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 10,
+      "emoji": "🔴",
+      "color": "#e54825",
+      "title_uk": "Електроенергії значно не вистачає",
+      "title_en": "Significant electricity shortages",
+      "since": "2026-10-12T04:55:10Z",
+      "period": {
+        "start": "2026-10-12T05:00:00Z",
+        "end": "2026-10-12T12:00:00Z"
+      },
       "next_change": null
     },
     {

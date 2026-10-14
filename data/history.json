@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-14T03:00:58Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-14T03:00:19Z"
+  },
+  {
     "at": "2026-10-13T23:42:59Z",
     "region_id": 31,
     "slug": "kyiv",

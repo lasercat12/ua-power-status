@@ -1,6 +1,6 @@
 # ua-power-status
 
-Стан енергосистеми України по регіонах у форматі JSON: 🟢 норма · 🟡 дефіцит · 🔴 графіки відключень · 🚨 аварійні відключення.
+Стан енергосистеми України по регіонах у форматі JSON: 🟢 норма · 🟡 споживайте ощадливо · 🔴 графіки погодинних відключень · 🚨 аварійні відключення · ⚫️ знеструмлення через пошкодження мережі.
 
 > ⚠️ **Неофіційні дані без жодних гарантій.** Проєкт не пов'язаний з НЕК «Укренерго».
 > Дані можуть запізнюватися, бути неповними або помилковими. Не використовуйте їх
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
   "generated_at": "2026-10-09T08:34:32Z",
   "changed_at": "2026-10-09T07:09:47Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
-  "statuses": { "outage_schedules": { "code": 10, "emoji": "🔴", "color": "#e54825", "title_uk": "…", "title_en": "…" } },
+  "statuses": { "outage_schedules": { "code": 9, "emoji": "🔴", "color": "#c82400", "title_uk": "…", "title_en": "…" } },
   "regions": [
     {
       "id": 31,
@@ -42,11 +42,11 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
       "status": "outage_schedules",
-      "status_code": 10,
+      "status_code": 9,
       "emoji": "🔴",
-      "color": "#e54825",
-      "title_uk": "Електроенергії значно не вистачає",
-      "title_en": "Significant electricity shortages",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
       "since": "2026-10-09T07:08:37Z",
       "period": { "start": "2026-10-09T07:00:00Z", "end": "2026-10-09T09:00:00Z" },
       "next_change": null
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
 |---|---|
 | `id` | ідентифікатор регіону (стабільний) |
 | `slug`, `name_uk`, `name_en` | назва регіону; `null`, поки відповідність не перевірена |
-| `status` | `normal` · `shortage` · `outage_schedules` · `emergency_outages` · `unknown` |
+| `status` | `normal` · `shortage` · `outage_schedules` · `emergency_outages` · `grid_damage` · `unknown` (див. таблицю нижче) |
 | `status_code` | числовий код стану з джерела |
 | `emoji`, `color` | значок і колір стану (як в офіційному застосунку) |
 | `title_uk`, `title_en` | назва стану |
@@ -68,6 +68,19 @@ https://raw.githubusercontent.com/lasercat12/ua-power-status/main/data/regions.j
 | `next_change` | `{ "at", "status", "status_code" }` найближчої запланованої зміни або `null` |
 
 Усі часи — UTC у форматі ISO 8601 (`…Z`).
+
+### Стани
+
+| `status` | `status_code` | | Значення |
+|---|---|---|---|
+| `normal` | 3 | 🟢 | Електроенергії достатньо |
+| `shortage` | 4 | 🟡 | Будь ласка, споживайте електроенергію ощадливо |
+| `outage_schedules` | 9 | 🔴 | Застосовані графіки погодинних відключень |
+| `emergency_outages` | 10 | 🚨 | Застосовані аварійні відключення |
+| `grid_damage` | 11 | ⚫️ | Знеструмлення – наслідок пошкодження мережі |
+| `unknown` | інший | ❔ | невідомий код |
+
+Відповідність кодів — за довідником офіційного застосунку (версія 17). Записи `history.json` до 14.10.2026 підписані за попередньою відповідністю кодів 9 і 10.
 
 ## Приклади
 
@@ -99,4 +112,4 @@ print([r["name_uk"] for r in regions if r["status"] != "normal"])
 
 ## English
 
-Unofficial, machine-readable status of Ukraine's power grid by region (JSON). **No guarantees**, not affiliated with NPC Ukrenergo; data may be delayed, incomplete or wrong — do not use it as the only source for safety-critical decisions. Checked every minute; files are updated on every change and at least hourly. If `generated_at` is older than 2 hours, treat the data as stale. All times are UTC (ISO 8601).
+Unofficial, machine-readable status of Ukraine's power grid by region (JSON). **No guarantees**, not affiliated with NPC Ukrenergo; data may be delayed, incomplete or wrong — do not use it as the only source for safety-critical decisions. Checked every minute; files are updated on every change and at least hourly. Status codes: 3 normal · 4 shortage (use sparingly) · 9 outage schedules · 10 emergency outages · 11 grid damage. If `generated_at` is older than 2 hours, treat the data as stale. All times are UTC (ISO 8601).

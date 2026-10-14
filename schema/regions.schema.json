@@ -194,6 +194,7 @@
         "shortage",
         "outage_schedules",
         "emergency_outages",
+        "grid_damage",
         "unknown"
       ]
     },

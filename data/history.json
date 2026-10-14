@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-14T07:05:10Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-14T03:03:10Z"
+  },
+  {
     "at": "2026-10-14T03:02:59Z",
     "region_id": 20,
     "slug": "sumy",

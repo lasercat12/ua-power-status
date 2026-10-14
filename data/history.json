@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-14T03:02:59Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-10-14T03:02:58Z"
+  },
+  {
     "at": "2026-10-14T03:01:58Z",
     "region_id": 19,
     "slug": "poltava",

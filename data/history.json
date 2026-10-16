@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-16T16:39:59Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-10-16T16:39:38Z"
+  },
+  {
     "at": "2026-10-16T10:47:44Z",
     "region_id": 14,
     "slug": "kyiv-oblast",

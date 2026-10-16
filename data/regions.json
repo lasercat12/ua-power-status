@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T15:51:22Z",
-  "changed_at": "2026-10-16T10:47:44Z",
+  "generated_at": "2026-10-16T16:39:59Z",
+  "changed_at": "2026-10-16T16:39:59Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -280,15 +280,15 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-15T21:22:39Z",
+      "status": "emergency_outages",
+      "status_code": 10,
+      "emoji": "🚨",
+      "color": "#e54825",
+      "title_uk": "Застосовані аварійні відключення",
+      "title_en": "Emergency outages are in effect",
+      "since": "2026-10-16T16:39:38Z",
       "period": {
-        "start": "2026-10-16T03:00:00Z",
+        "start": "2026-10-16T16:20:00Z",
         "end": "2026-10-16T20:59:00Z"
       },
       "next_change": null

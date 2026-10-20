@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-10-20T20:10:05Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-20T20:09:13Z"
+  },
+  {
+    "at": "2026-10-20T20:10:05Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-20T20:09:13Z"
+  },
+  {
+    "at": "2026-10-20T20:10:05Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-20T20:09:13Z"
+  },
+  {
+    "at": "2026-10-20T20:10:05Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-20T20:09:13Z"
+  },
+  {
+    "at": "2026-10-20T20:10:05Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-20T20:09:13Z"
+  },
+  {
     "at": "2026-10-20T19:34:40Z",
     "region_id": 22,
     "slug": "kharkiv",

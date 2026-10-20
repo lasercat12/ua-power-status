@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T09:21:03Z",
-  "changed_at": "2026-10-19T02:55:52Z",
+  "generated_at": "2026-10-20T07:10:46Z",
+  "changed_at": "2026-10-20T07:10:46Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -127,10 +127,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -190,10 +190,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -268,10 +268,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -286,10 +286,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -319,10 +319,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -352,10 +352,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -370,10 +370,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },
@@ -433,10 +433,10 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-19T02:54:19Z",
+      "since": "2026-10-20T04:48:26Z",
       "period": {
-        "start": "2026-10-19T03:00:00Z",
-        "end": "2026-10-19T20:59:00Z"
+        "start": "2026-10-20T03:00:00Z",
+        "end": "2026-10-20T20:59:00Z"
       },
       "next_change": null
     },

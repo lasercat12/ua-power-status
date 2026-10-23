@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-23T15:34:24Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "grid_damage",
+    "to": "outage_schedules",
+    "since": "2026-10-23T15:33:28Z"
+  },
+  {
     "at": "2026-10-23T07:39:43Z",
     "region_id": 10,
     "slug": "zhytomyr",
@@ -1590,13 +1598,5 @@
     "from": "normal",
     "to": "emergency_outages",
     "since": "2026-10-11T06:55:27Z"
-  },
-  {
-    "at": "2026-10-11T06:46:42Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "normal",
-    "to": "emergency_outages",
-    "since": "2026-10-11T06:45:20Z"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T07:10:21Z",
-  "changed_at": "2026-10-23T05:08:56Z",
+  "generated_at": "2026-10-23T07:39:43Z",
+  "changed_at": "2026-10-23T07:39:43Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -121,16 +121,16 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-23T02:59:36Z",
+      "status": "grid_damage",
+      "status_code": 11,
+      "emoji": "⚫️",
+      "color": "#006600",
+      "title_uk": "Знеструмлення – наслідок пошкодження мережі",
+      "title_en": "Power outage caused by grid damage",
+      "since": "2026-10-23T07:39:35Z",
       "period": {
-        "start": "2026-10-23T02:00:00Z",
-        "end": "2026-10-23T04:00:00Z"
+        "start": "2026-10-23T07:39:00Z",
+        "end": "2026-10-23T20:59:00Z"
       },
       "next_change": null
     },

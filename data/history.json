@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-10-24T17:08:51Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-10-24T17:08:14Z"
+  },
+  {
     "at": "2026-10-24T03:08:44Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1587,14 +1595,6 @@
     "at": "2026-10-11T07:55:04Z",
     "region_id": 20,
     "slug": "sumy",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-11T07:54:00Z"
-  },
-  {
-    "at": "2026-10-11T07:55:04Z",
-    "region_id": 19,
-    "slug": "poltava",
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-10-11T07:54:00Z"

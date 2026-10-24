@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T19:10:17Z",
-  "changed_at": "2026-10-24T17:08:51Z",
+  "generated_at": "2026-10-24T19:29:31Z",
+  "changed_at": "2026-10-24T19:29:31Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -307,17 +307,14 @@
       "slug": "kharkiv",
       "name_uk": "Харківська область",
       "name_en": "Kharkiv Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-24T17:08:14Z",
-      "period": {
-        "start": "2026-10-24T17:00:00Z",
-        "end": "2026-10-24T20:59:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-24T19:28:53Z",
+      "period": null,
       "next_change": null
     },
     {

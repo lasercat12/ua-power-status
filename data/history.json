@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-10-24T19:52:47Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-24T19:52:18Z"
+  },
+  {
+    "at": "2026-10-24T19:52:47Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-24T19:52:18Z"
+  },
+  {
+    "at": "2026-10-24T19:52:47Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-24T19:52:18Z"
+  },
+  {
+    "at": "2026-10-24T19:52:47Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-24T19:52:18Z"
+  },
+  {
+    "at": "2026-10-24T19:52:47Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-10-24T19:52:18Z"
+  },
+  {
     "at": "2026-10-24T19:29:31Z",
     "region_id": 22,
     "slug": "kharkiv",
@@ -1558,45 +1598,5 @@
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-10-11T11:32:55Z"
-  },
-  {
-    "at": "2026-10-11T11:34:11Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-10-11T11:32:55Z"
-  },
-  {
-    "at": "2026-10-11T11:34:11Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-10-11T11:32:55Z"
-  },
-  {
-    "at": "2026-10-11T07:55:04Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-11T07:54:00Z"
-  },
-  {
-    "at": "2026-10-11T07:55:04Z",
-    "region_id": 25,
-    "slug": "chernihiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-11T07:54:00Z"
-  },
-  {
-    "at": "2026-10-11T07:55:04Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-11T07:54:00Z"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-10-26T23:02:23Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "emergency_outages",
+    "to": "normal",
+    "since": "2026-10-26T23:02:06Z"
+  },
+  {
+    "at": "2026-10-26T23:02:23Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "emergency_outages",
+    "to": "normal",
+    "since": "2026-10-26T23:02:06Z"
+  },
+  {
     "at": "2026-10-26T22:15:50Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1582,21 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-10-15T21:17:33Z"
-  },
-  {
-    "at": "2026-10-15T02:41:48Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-15T02:40:33Z"
-  },
-  {
-    "at": "2026-10-15T02:41:48Z",
-    "region_id": 25,
-    "slug": "chernihiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-15T02:40:33Z"
   }
 ]

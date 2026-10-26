@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T06:43:43Z",
-  "changed_at": "2026-10-26T05:43:01Z",
+  "generated_at": "2026-10-26T07:30:17Z",
+  "changed_at": "2026-10-26T07:30:17Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -61,16 +61,16 @@
       "slug": "vinnytsia",
       "name_uk": "Вінницька область",
       "name_en": "Vinnytsia Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-26T04:33:55Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T07:29:49Z",
       "period": {
-        "start": "2026-10-26T05:00:00Z",
-        "end": "2026-10-26T21:59:00Z"
+        "start": "2026-10-26T07:30:00Z",
+        "end": "2026-10-26T13:00:00Z"
       },
       "next_change": null
     },
@@ -109,16 +109,16 @@
       "slug": "dnipropetrovsk",
       "name_uk": "Дніпропетровська область",
       "name_en": "Dnipropetrovsk Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-26T04:33:55Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T07:29:49Z",
       "period": {
-        "start": "2026-10-26T05:00:00Z",
-        "end": "2026-10-26T21:59:00Z"
+        "start": "2026-10-26T07:30:00Z",
+        "end": "2026-10-26T13:00:00Z"
       },
       "next_change": null
     },
@@ -160,16 +160,16 @@
       "slug": "zaporizhzhia",
       "name_uk": "Запорізька область",
       "name_en": "Zaporizhzhia Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-26T04:33:55Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T07:29:49Z",
       "period": {
-        "start": "2026-10-26T05:00:00Z",
-        "end": "2026-10-26T21:59:00Z"
+        "start": "2026-10-26T07:30:00Z",
+        "end": "2026-10-26T13:00:00Z"
       },
       "next_change": null
     },
@@ -211,16 +211,16 @@
       "slug": "kirovohrad",
       "name_uk": "Кіровоградська область",
       "name_en": "Kirovohrad Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-26T04:33:55Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T07:29:49Z",
       "period": {
-        "start": "2026-10-26T05:00:00Z",
-        "end": "2026-10-26T21:59:00Z"
+        "start": "2026-10-26T07:30:00Z",
+        "end": "2026-10-26T13:00:00Z"
       },
       "next_change": null
     },
@@ -244,16 +244,16 @@
       "slug": "mykolaiv",
       "name_uk": "Миколаївська область",
       "name_en": "Mykolaiv Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-26T04:33:55Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T07:29:49Z",
       "period": {
-        "start": "2026-10-26T05:00:00Z",
-        "end": "2026-10-26T21:59:00Z"
+        "start": "2026-10-26T07:30:00Z",
+        "end": "2026-10-26T13:00:00Z"
       },
       "next_change": null
     },
@@ -262,16 +262,16 @@
       "slug": "odesa",
       "name_uk": "Одеська область",
       "name_en": "Odesa Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-10-26T04:33:55Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T07:29:49Z",
       "period": {
-        "start": "2026-10-26T05:00:00Z",
-        "end": "2026-10-26T21:59:00Z"
+        "start": "2026-10-26T07:30:00Z",
+        "end": "2026-10-26T13:00:00Z"
       },
       "next_change": null
     },

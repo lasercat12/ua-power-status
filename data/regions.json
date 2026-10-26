@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T03:55:43Z",
-  "changed_at": "2026-10-26T03:55:43Z",
+  "generated_at": "2026-10-26T03:58:44Z",
+  "changed_at": "2026-10-26T03:58:44Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -61,14 +61,17 @@
       "slug": "vinnytsia",
       "name_uk": "Вінницька область",
       "name_en": "Vinnytsia Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-17T19:51:49Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T03:58:01Z",
+      "period": {
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-10-26T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -106,14 +109,17 @@
       "slug": "dnipropetrovsk",
       "name_uk": "Дніпропетровська область",
       "name_en": "Dnipropetrovsk Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-17T19:51:49Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T03:58:01Z",
+      "period": {
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-10-26T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -154,14 +160,17 @@
       "slug": "zaporizhzhia",
       "name_uk": "Запорізька область",
       "name_en": "Zaporizhzhia Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-17T19:51:49Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T03:58:01Z",
+      "period": {
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-10-26T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -202,14 +211,17 @@
       "slug": "kirovohrad",
       "name_uk": "Кіровоградська область",
       "name_en": "Kirovohrad Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-17T19:51:49Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T03:58:01Z",
+      "period": {
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-10-26T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -232,14 +244,17 @@
       "slug": "mykolaiv",
       "name_uk": "Миколаївська область",
       "name_en": "Mykolaiv Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-17T19:51:49Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T03:58:01Z",
+      "period": {
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-10-26T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -247,14 +262,17 @@
       "slug": "odesa",
       "name_uk": "Одеська область",
       "name_en": "Odesa Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-10-17T19:51:49Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-10-26T03:58:01Z",
+      "period": {
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-10-26T21:59:00Z"
+      },
       "next_change": null
     },
     {

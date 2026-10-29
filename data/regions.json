@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T03:05:54Z",
-  "changed_at": "2026-10-28T23:02:59Z",
+  "generated_at": "2026-10-29T04:00:33Z",
+  "changed_at": "2026-10-29T04:00:33Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -129,11 +129,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 11,
@@ -193,11 +189,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 15,
@@ -272,11 +264,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 20,
@@ -291,11 +279,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 21,
@@ -325,11 +309,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 23,
@@ -359,11 +339,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 25,
@@ -378,11 +354,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 26,
@@ -442,11 +414,7 @@
       "title_en": "Sufficient electricity is available",
       "since": "2026-10-28T23:00:03Z",
       "period": null,
-      "next_change": {
-        "at": "2026-10-29T04:00:00Z",
-        "status": "outage_schedules",
-        "status_code": 9
-      }
+      "next_change": null
     },
     {
       "id": 40,

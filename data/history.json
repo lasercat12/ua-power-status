@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-10-30T04:20:57Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-10-30T04:19:52Z"
+  },
+  {
+    "at": "2026-10-30T04:20:57Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-10-30T04:19:52Z"
+  },
+  {
+    "at": "2026-10-30T04:20:57Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-10-30T04:19:52Z"
+  },
+  {
+    "at": "2026-10-30T04:20:57Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-10-30T04:19:52Z"
+  },
+  {
+    "at": "2026-10-30T04:20:57Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-10-30T04:19:52Z"
+  },
+  {
     "at": "2026-10-30T02:58:59Z",
     "region_id": 22,
     "slug": "kharkiv",
@@ -1558,45 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-10-21T21:25:16Z"
-  },
-  {
-    "at": "2026-10-21T21:26:00Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-21T21:25:16Z"
-  },
-  {
-    "at": "2026-10-21T21:26:00Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-21T21:25:16Z"
-  },
-  {
-    "at": "2026-10-21T21:26:00Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-21T21:25:16Z"
-  },
-  {
-    "at": "2026-10-21T04:34:08Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-21T04:33:26Z"
-  },
-  {
-    "at": "2026-10-21T04:34:08Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-21T04:33:26Z"
   }
 ]

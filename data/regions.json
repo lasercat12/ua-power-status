@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T11:54:23Z",
-  "changed_at": "2026-10-30T09:52:54Z",
+  "generated_at": "2026-10-30T12:05:31Z",
+  "changed_at": "2026-10-30T12:05:31Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -106,17 +106,14 @@
       "slug": "dnipropetrovsk",
       "name_uk": "Дніпропетровська область",
       "name_en": "Dnipropetrovsk Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-10-30T09:52:27Z",
-      "period": {
-        "start": "2026-10-30T01:02:00Z",
-        "end": "2026-10-30T11:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-10-30T12:04:53Z",
+      "period": null,
       "next_change": null
     },
     {

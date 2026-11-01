@@ -1,5 +1,53 @@
 [
   {
+    "at": "2026-11-01T22:01:53Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-01T22:01:28Z"
+  },
+  {
+    "at": "2026-11-01T22:01:53Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-01T22:01:28Z"
+  },
+  {
+    "at": "2026-11-01T22:01:53Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-01T22:01:28Z"
+  },
+  {
+    "at": "2026-11-01T22:01:53Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-01T22:01:28Z"
+  },
+  {
+    "at": "2026-11-01T22:01:53Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-01T22:01:28Z"
+  },
+  {
+    "at": "2026-11-01T22:01:53Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-01T22:01:28Z"
+  },
+  {
     "at": "2026-11-01T04:31:23Z",
     "region_id": 25,
     "slug": "chernihiv",
@@ -1550,53 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-10-23T21:16:39Z"
-  },
-  {
-    "at": "2026-10-23T21:17:32Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-10-23T21:16:39Z"
-  },
-  {
-    "at": "2026-10-23T21:17:32Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-10-23T21:16:39Z"
-  },
-  {
-    "at": "2026-10-23T19:08:59Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-10-23T19:08:10Z"
-  },
-  {
-    "at": "2026-10-23T19:08:59Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-10-23T19:08:10Z"
-  },
-  {
-    "at": "2026-10-23T19:08:59Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-10-23T19:08:10Z"
-  },
-  {
-    "at": "2026-10-23T15:34:24Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "grid_damage",
-    "to": "outage_schedules",
-    "since": "2026-10-23T15:33:28Z"
   }
 ]

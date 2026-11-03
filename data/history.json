@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-03T12:58:59Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-03T12:58:52Z"
+  },
+  {
     "at": "2026-11-03T00:21:44Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1587,14 +1595,6 @@
     "at": "2026-10-25T14:46:21Z",
     "region_id": 31,
     "slug": "kyiv",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 25,
-    "slug": "chernihiv",
     "from": "shortage",
     "to": "outage_schedules",
     "since": "2026-10-25T14:45:18Z"

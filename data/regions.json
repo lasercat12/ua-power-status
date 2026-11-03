@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T12:30:39Z",
-  "changed_at": "2026-11-03T00:21:44Z",
+  "generated_at": "2026-11-03T12:58:59Z",
+  "changed_at": "2026-11-03T12:58:59Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -403,13 +403,13 @@
       "slug": "chernivtsi",
       "name_uk": "Чернівецька область",
       "name_en": "Chernivtsi Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T12:58:52Z",
       "period": {
         "start": "2026-11-03T00:15:00Z",
         "end": "2026-11-03T06:00:00Z"

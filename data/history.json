@@ -1,5 +1,133 @@
 [
   {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 23,
+    "slug": "kherson",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 18,
+    "slug": "odesa",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 17,
+    "slug": "mykolaiv",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 15,
+    "slug": "kirovohrad",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 12,
+    "slug": "zaporizhzhia",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
+    "at": "2026-11-03T00:21:44Z",
+    "region_id": 4,
+    "slug": "vinnytsia",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-03T00:21:03Z"
+  },
+  {
     "at": "2026-11-02T17:30:49Z",
     "region_id": 22,
     "slug": "kharkiv",
@@ -1470,133 +1598,5 @@
     "from": "shortage",
     "to": "outage_schedules",
     "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 24,
-    "slug": "cherkasy",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T14:46:21Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-10-25T14:45:18Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 25,
-    "slug": "chernihiv",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 24,
-    "slug": "cherkasy",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-25T06:36:30Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "normal",
-    "to": "shortage",
-    "since": "2026-10-25T06:35:27Z"
-  },
-  {
-    "at": "2026-10-24T19:52:47Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-24T19:52:18Z"
-  },
-  {
-    "at": "2026-10-24T19:52:47Z",
-    "region_id": 25,
-    "slug": "chernihiv",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-24T19:52:18Z"
   }
 ]

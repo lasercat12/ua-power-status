@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T22:05:27Z",
-  "changed_at": "2026-11-03T12:58:59Z",
+  "generated_at": "2026-11-03T22:46:57Z",
+  "changed_at": "2026-11-03T22:46:57Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -61,16 +61,16 @@
       "slug": "vinnytsia",
       "name_uk": "Вінницька область",
       "name_en": "Vinnytsia Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -109,16 +109,16 @@
       "slug": "dnipropetrovsk",
       "name_uk": "Дніпропетровська область",
       "name_en": "Dnipropetrovsk Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -160,16 +160,16 @@
       "slug": "zaporizhzhia",
       "name_uk": "Запорізька область",
       "name_en": "Zaporizhzhia Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -211,16 +211,16 @@
       "slug": "kirovohrad",
       "name_uk": "Кіровоградська область",
       "name_en": "Kirovohrad Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -244,16 +244,16 @@
       "slug": "mykolaiv",
       "name_uk": "Миколаївська область",
       "name_en": "Mykolaiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -262,16 +262,16 @@
       "slug": "odesa",
       "name_uk": "Одеська область",
       "name_en": "Odesa Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -367,16 +367,16 @@
       "slug": "cherkasy",
       "name_uk": "Черкаська область",
       "name_en": "Cherkasy Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -385,16 +385,16 @@
       "slug": "chernihiv",
       "name_uk": "Чернігівська область",
       "name_en": "Chernihiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -451,16 +451,16 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-03T22:46:25Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-03T22:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },

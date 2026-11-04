@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T00:01:51Z",
-  "changed_at": "2026-11-04T00:01:51Z",
+  "generated_at": "2026-11-04T00:02:52Z",
+  "changed_at": "2026-11-04T00:02:52Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -349,17 +349,14 @@
       "slug": "kherson",
       "name_uk": "Херсонська область",
       "name_en": "Kherson Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
-      "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-11-04T00:02:15Z",
+      "period": null,
       "next_change": null
     },
     {

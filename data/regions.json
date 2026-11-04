@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T09:25:30Z",
-  "changed_at": "2026-11-04T09:25:30Z",
+  "generated_at": "2026-11-04T10:31:15Z",
+  "changed_at": "2026-11-04T10:31:15Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -127,16 +127,16 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-04T09:25:13Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T10:30:50Z",
       "period": {
-        "start": "2026-11-04T09:00:00Z",
-        "end": "2026-11-04T21:59:00Z"
+        "start": "2026-11-04T10:00:00Z",
+        "end": "2026-11-04T12:00:00Z"
       },
       "next_change": null
     },
@@ -193,16 +193,16 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-04T09:25:13Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T10:30:50Z",
       "period": {
-        "start": "2026-11-04T09:00:00Z",
-        "end": "2026-11-04T21:59:00Z"
+        "start": "2026-11-04T10:00:00Z",
+        "end": "2026-11-04T12:00:00Z"
       },
       "next_change": null
     },
@@ -382,13 +382,13 @@
       "slug": "chernihiv",
       "name_uk": "Чернігівська область",
       "name_en": "Chernihiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-04T09:25:13Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T10:30:50Z",
       "period": {
         "start": "2026-11-04T09:00:00Z",
         "end": "2026-11-04T21:59:00Z"
@@ -448,16 +448,16 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-04T09:25:13Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T10:30:50Z",
       "period": {
-        "start": "2026-11-04T09:00:00Z",
-        "end": "2026-11-04T21:59:00Z"
+        "start": "2026-11-04T10:00:00Z",
+        "end": "2026-11-04T12:00:00Z"
       },
       "next_change": null
     },

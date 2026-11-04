@@ -1,5 +1,29 @@
 [
   {
+    "at": "2026-11-04T00:01:51Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-04T00:01:07Z"
+  },
+  {
+    "at": "2026-11-04T00:01:51Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-04T00:01:07Z"
+  },
+  {
+    "at": "2026-11-04T00:01:51Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-04T00:01:07Z"
+  },
+  {
     "at": "2026-11-03T22:46:57Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1571,30 +1595,6 @@
     "at": "2026-10-26T03:55:43Z",
     "region_id": 20,
     "slug": "sumy",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-26T03:55:34Z"
-  },
-  {
-    "at": "2026-10-26T03:55:43Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-26T03:55:34Z"
-  },
-  {
-    "at": "2026-10-26T03:55:43Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-26T03:55:34Z"
-  },
-  {
-    "at": "2026-10-26T03:55:43Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-10-26T03:55:34Z"

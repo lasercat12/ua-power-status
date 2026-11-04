@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T12:49:49Z",
-  "changed_at": "2026-11-04T10:35:17Z",
+  "generated_at": "2026-11-04T13:10:04Z",
+  "changed_at": "2026-11-04T13:10:04Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -193,16 +193,16 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-04T10:33:56Z",
+      "status": "emergency_outages",
+      "status_code": 10,
+      "emoji": "🚨",
+      "color": "#e54825",
+      "title_uk": "Застосовані аварійні відключення",
+      "title_en": "Emergency outages are in effect",
+      "since": "2026-11-04T13:09:11Z",
       "period": {
-        "start": "2026-11-04T10:00:00Z",
-        "end": "2026-11-04T21:59:00Z"
+        "start": "2026-11-04T13:00:00Z",
+        "end": "2026-11-04T20:00:00Z"
       },
       "next_change": null
     },
@@ -448,16 +448,16 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-04T10:32:51Z",
+      "status": "emergency_outages",
+      "status_code": 10,
+      "emoji": "🚨",
+      "color": "#e54825",
+      "title_uk": "Застосовані аварійні відключення",
+      "title_en": "Emergency outages are in effect",
+      "since": "2026-11-04T13:09:11Z",
       "period": {
-        "start": "2026-11-04T10:00:00Z",
-        "end": "2026-11-04T21:59:00Z"
+        "start": "2026-11-04T13:00:00Z",
+        "end": "2026-11-04T20:00:00Z"
       },
       "next_change": null
     },

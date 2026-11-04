@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T10:34:16Z",
-  "changed_at": "2026-11-04T10:34:16Z",
+  "generated_at": "2026-11-04T10:48:23Z",
+  "changed_at": "2026-11-04T10:35:17Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -370,9 +370,9 @@
       "color": "#c82400",
       "title_uk": "Застосовані графіки погодинних відключень",
       "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-04T04:19:07Z",
+      "since": "2026-11-04T10:34:19Z",
       "period": {
-        "start": "2026-11-04T04:00:00Z",
+        "start": "2026-11-04T10:00:00Z",
         "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null

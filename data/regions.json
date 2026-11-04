@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T03:48:33Z",
-  "changed_at": "2026-11-04T03:48:33Z",
+  "generated_at": "2026-11-04T04:19:55Z",
+  "changed_at": "2026-11-04T04:19:55Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -127,16 +127,16 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T04:19:07Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-04T04:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -193,16 +193,16 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-03T00:21:03Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T04:19:07Z",
       "period": {
-        "start": "2026-11-03T00:15:00Z",
-        "end": "2026-11-03T06:00:00Z"
+        "start": "2026-11-04T04:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },
@@ -364,16 +364,16 @@
       "slug": "cherkasy",
       "name_uk": "Черкаська область",
       "name_en": "Cherkasy Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-04T03:48:17Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-04T04:19:07Z",
       "period": {
-        "start": "2026-11-04T03:00:00Z",
-        "end": "2026-11-04T06:00:00Z"
+        "start": "2026-11-04T04:00:00Z",
+        "end": "2026-11-04T21:59:00Z"
       },
       "next_change": null
     },

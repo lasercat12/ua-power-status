@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T12:13:47Z",
-  "changed_at": "2026-11-07T08:10:53Z",
+  "generated_at": "2026-11-07T13:04:23Z",
+  "changed_at": "2026-11-07T13:04:23Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -46,14 +46,17 @@
       "slug": "khmelnytskyi",
       "name_uk": "Хмельницька область",
       "name_en": "Khmelnytskyi Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-07T08:10:42Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-07T13:03:51Z",
+      "period": {
+        "start": "2026-11-07T13:00:00Z",
+        "end": "2026-11-07T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -61,14 +64,17 @@
       "slug": "vinnytsia",
       "name_uk": "Вінницька область",
       "name_en": "Vinnytsia Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-07T08:10:42Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-07T13:03:51Z",
+      "period": {
+        "start": "2026-11-07T13:00:00Z",
+        "end": "2026-11-07T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -241,14 +247,17 @@
       "slug": "mykolaiv",
       "name_uk": "Миколаївська область",
       "name_en": "Mykolaiv Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-07T08:10:42Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-07T13:03:51Z",
+      "period": {
+        "start": "2026-11-07T13:00:00Z",
+        "end": "2026-11-07T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -256,14 +265,17 @@
       "slug": "odesa",
       "name_uk": "Одеська область",
       "name_en": "Odesa Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-07T08:10:42Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-07T13:03:51Z",
+      "period": {
+        "start": "2026-11-07T13:00:00Z",
+        "end": "2026-11-07T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -391,14 +403,17 @@
       "slug": "chernivtsi",
       "name_uk": "Чернівецька область",
       "name_en": "Chernivtsi Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-07T08:10:42Z",
-      "period": null,
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-07T13:03:51Z",
+      "period": {
+        "start": "2026-11-07T13:00:00Z",
+        "end": "2026-11-07T21:59:00Z"
+      },
       "next_change": null
     },
     {

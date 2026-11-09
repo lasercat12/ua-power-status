@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-11-09T17:52:29Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-09T17:52:12Z"
+  },
+  {
+    "at": "2026-11-09T17:52:29Z",
+    "region_id": 3,
+    "slug": "khmelnytskyi",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-09T17:51:36Z"
+  },
+  {
     "at": "2026-11-09T17:51:29Z",
     "region_id": 17,
     "slug": "mykolaiv",
@@ -1582,21 +1598,5 @@
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-10-28T04:05:00Z"
-  },
-  {
-    "at": "2026-10-29T04:01:34Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-28T04:04:07Z"
-  },
-  {
-    "at": "2026-10-29T04:01:34Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-10-28T04:03:25Z"
   }
 ]

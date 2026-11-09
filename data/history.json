@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-09T16:30:31Z",
+    "region_id": 4,
+    "slug": "vinnytsia",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-09T16:30:21Z"
+  },
+  {
     "at": "2026-11-09T04:12:32Z",
     "region_id": 26,
     "slug": "chernivtsi",
@@ -1587,14 +1595,6 @@
     "at": "2026-10-28T23:00:58Z",
     "region_id": 19,
     "slug": "poltava",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-28T23:00:03Z"
-  },
-  {
-    "at": "2026-10-28T23:00:58Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-10-28T23:00:03Z"

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T15:59:30Z",
-  "changed_at": "2026-11-10T10:55:46Z",
+  "generated_at": "2026-11-10T16:37:57Z",
+  "changed_at": "2026-11-10T16:37:57Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -196,15 +196,15 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-10T08:44:43Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-10T16:37:19Z",
       "period": {
-        "start": "2026-11-10T08:02:00Z",
+        "start": "2026-11-10T13:05:00Z",
         "end": "2026-11-10T21:59:00Z"
       },
       "next_change": null
@@ -451,15 +451,15 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-10T08:44:43Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-10T16:37:19Z",
       "period": {
-        "start": "2026-11-10T08:02:00Z",
+        "start": "2026-11-10T13:05:00Z",
         "end": "2026-11-10T21:59:00Z"
       },
       "next_change": null

@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-13T23:47:54Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-13T23:47:28Z"
+  },
+  {
     "at": "2026-11-13T22:33:00Z",
     "region_id": 24,
     "slug": "cherkasy",
@@ -1590,13 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-10-31T22:03:43Z"
-  },
-  {
-    "at": "2026-10-31T22:02:49Z",
-    "region_id": 25,
-    "slug": "chernihiv",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-31T22:02:03Z"
   }
 ]

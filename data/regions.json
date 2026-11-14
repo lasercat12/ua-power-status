@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T06:53:04Z",
-  "changed_at": "2026-11-13T23:47:54Z",
+  "generated_at": "2026-11-14T07:03:12Z",
+  "changed_at": "2026-11-14T07:03:12Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -301,16 +301,16 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-13T22:19:17Z",
+      "status": "grid_damage",
+      "status_code": 11,
+      "emoji": "⚫️",
+      "color": "#006600",
+      "title_uk": "Знеструмлення – наслідок пошкодження мережі",
+      "title_en": "Power outage caused by grid damage",
+      "since": "2026-11-14T07:02:32Z",
       "period": {
-        "start": "2026-11-13T22:15:00Z",
-        "end": "2026-11-14T21:59:00Z"
+        "start": "2026-11-14T07:00:00Z",
+        "end": "2026-11-14T09:00:00Z"
       },
       "next_change": null
     },

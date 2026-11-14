@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-14T07:03:12Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "shortage",
+    "to": "grid_damage",
+    "since": "2026-11-14T07:02:32Z"
+  },
+  {
     "at": "2026-11-13T23:47:54Z",
     "region_id": 22,
     "slug": "kharkiv",
@@ -1590,13 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-10-31T22:06:45Z"
-  },
-  {
-    "at": "2026-10-31T22:03:50Z",
-    "region_id": 24,
-    "slug": "cherkasy",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-10-31T22:03:43Z"
   }
 ]

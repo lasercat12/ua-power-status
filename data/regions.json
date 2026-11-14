@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T14:11:22Z",
-  "changed_at": "2026-11-14T14:11:22Z",
+  "generated_at": "2026-11-14T14:13:23Z",
+  "changed_at": "2026-11-14T14:13:23Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -163,15 +163,15 @@
       "slug": "zaporizhzhia",
       "name_uk": "Запорізька область",
       "name_en": "Zaporizhzhia Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-13T22:31:48Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-14T14:12:23Z",
       "period": {
-        "start": "2026-11-13T22:30:00Z",
+        "start": "2026-11-14T14:00:00Z",
         "end": "2026-11-14T21:59:00Z"
       },
       "next_change": null
@@ -214,15 +214,15 @@
       "slug": "kirovohrad",
       "name_uk": "Кіровоградська область",
       "name_en": "Kirovohrad Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-13T22:31:48Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-14T14:12:23Z",
       "period": {
-        "start": "2026-11-13T22:30:00Z",
+        "start": "2026-11-14T14:00:00Z",
         "end": "2026-11-14T21:59:00Z"
       },
       "next_change": null
@@ -283,15 +283,15 @@
       "slug": "poltava",
       "name_uk": "Полтавська область",
       "name_en": "Poltava Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-13T22:19:17Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-14T14:12:23Z",
       "period": {
-        "start": "2026-11-13T22:15:00Z",
+        "start": "2026-11-14T14:00:00Z",
         "end": "2026-11-14T21:59:00Z"
       },
       "next_change": null

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T10:34:58Z",
-  "changed_at": "2026-11-15T10:34:58Z",
+  "generated_at": "2026-11-15T11:16:28Z",
+  "changed_at": "2026-11-15T11:16:28Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -106,16 +106,16 @@
       "slug": "dnipropetrovsk",
       "name_uk": "Дніпропетровська область",
       "name_en": "Dnipropetrovsk Oblast",
-      "status": "emergency_outages",
-      "status_code": 10,
-      "emoji": "🚨",
-      "color": "#e54825",
-      "title_uk": "Застосовані аварійні відключення",
-      "title_en": "Emergency outages are in effect",
-      "since": "2026-11-15T10:34:18Z",
+      "status": "grid_damage",
+      "status_code": 11,
+      "emoji": "⚫️",
+      "color": "#006600",
+      "title_uk": "Знеструмлення – наслідок пошкодження мережі",
+      "title_en": "Power outage caused by grid damage",
+      "since": "2026-11-15T11:16:10Z",
       "period": {
-        "start": "2026-11-15T10:33:00Z",
-        "end": "2026-11-15T12:00:00Z"
+        "start": "2026-11-15T11:31:00Z",
+        "end": "2026-11-15T13:00:00Z"
       },
       "next_change": null
     },
@@ -154,14 +154,17 @@
       "slug": "zaporizhzhia",
       "name_uk": "Запорізька область",
       "name_en": "Zaporizhzhia Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-15T08:42:10Z",
-      "period": null,
+      "status": "grid_damage",
+      "status_code": 11,
+      "emoji": "⚫️",
+      "color": "#006600",
+      "title_uk": "Знеструмлення – наслідок пошкодження мережі",
+      "title_en": "Power outage caused by grid damage",
+      "since": "2026-11-15T11:16:10Z",
+      "period": {
+        "start": "2026-11-15T11:31:00Z",
+        "end": "2026-11-15T13:00:00Z"
+      },
       "next_change": null
     },
     {

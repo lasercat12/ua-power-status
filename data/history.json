@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-11-15T11:16:28Z",
+    "region_id": 12,
+    "slug": "zaporizhzhia",
+    "from": "normal",
+    "to": "grid_damage",
+    "since": "2026-11-15T11:16:10Z"
+  },
+  {
+    "at": "2026-11-15T11:16:28Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "emergency_outages",
+    "to": "grid_damage",
+    "since": "2026-11-15T11:16:10Z"
+  },
+  {
     "at": "2026-11-15T10:34:58Z",
     "region_id": 9,
     "slug": "dnipropetrovsk",
@@ -1582,21 +1598,5 @@
     "from": "normal",
     "to": "emergency_outages",
     "since": "2026-11-03T00:21:03Z"
-  },
-  {
-    "at": "2026-11-02T17:30:49Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-02T17:30:03Z"
-  },
-  {
-    "at": "2026-11-02T17:12:35Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-02T17:12:31Z"
   }
 ]

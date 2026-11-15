@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-15T23:17:03Z",
+    "region_id": 13,
+    "slug": "ivano-frankivsk",
+    "from": "shortage",
+    "to": "normal",
+    "since": "2026-11-15T23:16:26Z"
+  },
+  {
     "at": "2026-11-15T23:16:03Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1590,13 +1598,5 @@
     "from": "outage_schedules",
     "to": "emergency_outages",
     "since": "2026-11-04T06:25:27Z"
-  },
-  {
-    "at": "2026-11-04T04:19:55Z",
-    "region_id": 24,
-    "slug": "cherkasy",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-04T04:19:07Z"
   }
 ]

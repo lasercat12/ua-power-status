@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T23:16:03Z",
-  "changed_at": "2026-11-15T23:16:03Z",
+  "generated_at": "2026-11-15T23:17:03Z",
+  "changed_at": "2026-11-15T23:17:03Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -181,17 +181,14 @@
       "slug": "ivano-frankivsk",
       "name_uk": "Івано-Франківська область",
       "name_en": "Ivano-Frankivsk Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-15T23:15:41Z",
-      "period": {
-        "start": "2026-11-15T23:00:00Z",
-        "end": "2026-11-16T04:00:00Z"
-      },
+      "status": "normal",
+      "status_code": 3,
+      "emoji": "🟢",
+      "color": "#55a349",
+      "title_uk": "Електроенергії достатньо",
+      "title_en": "Sufficient electricity is available",
+      "since": "2026-11-15T23:16:26Z",
+      "period": null,
       "next_change": null
     },
     {

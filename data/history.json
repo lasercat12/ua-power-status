@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-15T23:19:04Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-15T23:18:03Z"
+  },
+  {
     "at": "2026-11-15T23:17:03Z",
     "region_id": 13,
     "slug": "ivano-frankivsk",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-04T06:26:24Z",
     "region_id": 20,
     "slug": "sumy",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-04T06:25:27Z"
-  },
-  {
-    "at": "2026-11-04T06:26:24Z",
-    "region_id": 19,
-    "slug": "poltava",
     "from": "outage_schedules",
     "to": "emergency_outages",
     "since": "2026-11-04T06:25:27Z"

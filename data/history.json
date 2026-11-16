@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-11-16T08:34:45Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-16T08:33:53Z"
+  },
+  {
+    "at": "2026-11-16T08:34:45Z",
+    "region_id": 18,
+    "slug": "odesa",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-16T08:33:53Z"
+  },
+  {
+    "at": "2026-11-16T08:34:45Z",
+    "region_id": 17,
+    "slug": "mykolaiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-16T08:33:53Z"
+  },
+  {
+    "at": "2026-11-16T08:34:45Z",
+    "region_id": 4,
+    "slug": "vinnytsia",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-16T08:33:53Z"
+  },
+  {
+    "at": "2026-11-16T08:34:45Z",
+    "region_id": 3,
+    "slug": "khmelnytskyi",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-16T08:33:53Z"
+  },
+  {
     "at": "2026-11-16T08:01:21Z",
     "region_id": 12,
     "slug": "zaporizhzhia",
@@ -1558,45 +1598,5 @@
     "from": "outage_schedules",
     "to": "emergency_outages",
     "since": "2026-11-05T07:15:52Z"
-  },
-  {
-    "at": "2026-11-05T07:15:57Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-05T07:15:52Z"
-  },
-  {
-    "at": "2026-11-05T07:15:57Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-05T07:15:52Z"
-  },
-  {
-    "at": "2026-11-04T20:20:08Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-04T20:19:36Z"
-  },
-  {
-    "at": "2026-11-04T20:20:08Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-04T20:19:36Z"
-  },
-  {
-    "at": "2026-11-04T17:52:25Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-04T17:51:38Z"
   }
 ]

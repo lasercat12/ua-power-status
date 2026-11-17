@@ -1,5 +1,37 @@
 [
   {
+    "at": "2026-11-17T09:04:06Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-17T09:03:23Z"
+  },
+  {
+    "at": "2026-11-17T09:04:06Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-17T09:03:23Z"
+  },
+  {
+    "at": "2026-11-17T09:04:06Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-17T09:03:23Z"
+  },
+  {
+    "at": "2026-11-17T09:04:06Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-17T09:03:23Z"
+  },
+  {
     "at": "2026-11-17T05:28:32Z",
     "region_id": 20,
     "slug": "sumy",
@@ -1566,37 +1598,5 @@
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-09T04:11:46Z"
-  },
-  {
-    "at": "2026-11-09T04:12:32Z",
-    "region_id": 4,
-    "slug": "vinnytsia",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-09T04:11:46Z"
-  },
-  {
-    "at": "2026-11-09T04:12:32Z",
-    "region_id": 3,
-    "slug": "khmelnytskyi",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-09T04:11:46Z"
-  },
-  {
-    "at": "2026-11-08T12:15:04Z",
-    "region_id": 12,
-    "slug": "zaporizhzhia",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-08T12:14:14Z"
-  },
-  {
-    "at": "2026-11-08T12:14:03Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-08T12:13:43Z"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-17T18:54:02Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-17T18:53:24Z"
+  },
+  {
     "at": "2026-11-17T18:53:01Z",
     "region_id": 15,
     "slug": "kirovohrad",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-09T04:12:32Z",
     "region_id": 26,
     "slug": "chernivtsi",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-09T04:11:46Z"
-  },
-  {
-    "at": "2026-11-09T04:12:32Z",
-    "region_id": 18,
-    "slug": "odesa",
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-09T04:11:46Z"

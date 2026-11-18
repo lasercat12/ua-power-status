@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T05:42:31Z",
-  "changed_at": "2026-11-18T04:41:54Z",
+  "generated_at": "2026-11-18T06:08:47Z",
+  "changed_at": "2026-11-18T06:08:47Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -277,16 +277,16 @@
       "slug": "poltava",
       "name_uk": "Полтавська область",
       "name_en": "Poltava Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-17T18:53:24Z",
+      "status": "emergency_outages",
+      "status_code": 10,
+      "emoji": "🚨",
+      "color": "#e54825",
+      "title_uk": "Застосовані аварійні відключення",
+      "title_en": "Emergency outages are in effect",
+      "since": "2026-11-18T06:08:20Z",
       "period": {
-        "start": "2026-11-17T19:00:00Z",
-        "end": "2026-11-17T21:59:00Z"
+        "start": "2026-11-18T06:03:00Z",
+        "end": "2026-11-18T08:00:00Z"
       },
       "next_change": null
     },
@@ -295,16 +295,16 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-17T22:40:58Z",
+      "status": "emergency_outages",
+      "status_code": 10,
+      "emoji": "🚨",
+      "color": "#e54825",
+      "title_uk": "Застосовані аварійні відключення",
+      "title_en": "Emergency outages are in effect",
+      "since": "2026-11-18T06:08:20Z",
       "period": {
-        "start": "2026-11-17T22:00:00Z",
-        "end": "2026-11-18T06:00:00Z"
+        "start": "2026-11-18T06:03:00Z",
+        "end": "2026-11-18T08:00:00Z"
       },
       "next_change": null
     },
@@ -328,16 +328,16 @@
       "slug": "kharkiv",
       "name_uk": "Харківська область",
       "name_en": "Kharkiv Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-17T22:40:58Z",
+      "status": "emergency_outages",
+      "status_code": 10,
+      "emoji": "🚨",
+      "color": "#e54825",
+      "title_uk": "Застосовані аварійні відключення",
+      "title_en": "Emergency outages are in effect",
+      "since": "2026-11-18T06:08:20Z",
       "period": {
-        "start": "2026-11-17T22:00:00Z",
-        "end": "2026-11-18T06:00:00Z"
+        "start": "2026-11-18T06:03:00Z",
+        "end": "2026-11-18T08:00:00Z"
       },
       "next_change": null
     },

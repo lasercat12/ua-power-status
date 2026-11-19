@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-11-19T04:19:46Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-19T04:19:18Z"
+  },
+  {
+    "at": "2026-11-19T04:19:46Z",
+    "region_id": 23,
+    "slug": "kherson",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-19T04:19:18Z"
+  },
+  {
+    "at": "2026-11-19T04:19:46Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-19T04:19:18Z"
+  },
+  {
+    "at": "2026-11-19T04:19:46Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-19T04:19:18Z"
+  },
+  {
+    "at": "2026-11-19T04:19:46Z",
+    "region_id": 8,
+    "slug": "volyn",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-19T04:19:18Z"
+  },
+  {
     "at": "2026-11-19T04:00:34Z",
     "region_id": 40,
     "slug": "crimea",
@@ -1558,45 +1598,5 @@
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-11-11T11:07:32Z"
-  },
-  {
-    "at": "2026-11-11T11:08:29Z",
-    "region_id": 12,
-    "slug": "zaporizhzhia",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-11T11:07:32Z"
-  },
-  {
-    "at": "2026-11-11T11:08:29Z",
-    "region_id": 4,
-    "slug": "vinnytsia",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-11T11:07:32Z"
-  },
-  {
-    "at": "2026-11-11T11:08:29Z",
-    "region_id": 3,
-    "slug": "khmelnytskyi",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-11T11:07:32Z"
-  },
-  {
-    "at": "2026-11-10T16:37:57Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-10T16:37:19Z"
-  },
-  {
-    "at": "2026-11-10T16:37:57Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-10T16:37:19Z"
   }
 ]

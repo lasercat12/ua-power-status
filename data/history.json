@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-11-19T04:21:47Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-19T04:21:20Z"
+  },
+  {
+    "at": "2026-11-19T04:21:47Z",
+    "region_id": 23,
+    "slug": "kherson",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-19T04:21:05Z"
+  },
+  {
     "at": "2026-11-19T04:20:46Z",
     "region_id": 40,
     "slug": "crimea",
@@ -1582,21 +1598,5 @@
     "from": "shortage",
     "to": "outage_schedules",
     "since": "2026-11-11T13:11:31Z"
-  },
-  {
-    "at": "2026-11-11T13:11:59Z",
-    "region_id": 3,
-    "slug": "khmelnytskyi",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-11T13:11:31Z"
-  },
-  {
-    "at": "2026-11-11T11:08:29Z",
-    "region_id": 26,
-    "slug": "chernivtsi",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-11T11:07:32Z"
   }
 ]

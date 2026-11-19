@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-19T00:42:28Z",
+    "region_id": 15,
+    "slug": "kirovohrad",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-19T00:41:44Z"
+  },
+  {
     "at": "2026-11-18T21:27:23Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-10T03:53:42Z",
     "region_id": 18,
     "slug": "odesa",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-10T03:53:23Z"
-  },
-  {
-    "at": "2026-11-10T03:53:42Z",
-    "region_id": 17,
-    "slug": "mykolaiv",
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-10T03:53:23Z"

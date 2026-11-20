@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-20T06:02:48Z",
+    "region_id": 12,
+    "slug": "zaporizhzhia",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-20T06:02:24Z"
+  },
+  {
     "at": "2026-11-20T06:01:47Z",
     "region_id": 11,
     "slug": "zakarpattia",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-13T04:01:47Z",
     "region_id": 17,
     "slug": "mykolaiv",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T04:01:13Z"
-  },
-  {
-    "at": "2026-11-13T04:01:47Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-11-13T04:01:13Z"

@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-11-20T06:03:48Z",
+    "region_id": 27,
+    "slug": "lviv",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-20T06:03:23Z"
+  },
+  {
+    "at": "2026-11-20T06:03:48Z",
+    "region_id": 13,
+    "slug": "ivano-frankivsk",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-20T06:03:23Z"
+  },
+  {
     "at": "2026-11-20T06:02:48Z",
     "region_id": 12,
     "slug": "zaporizhzhia",
@@ -1579,22 +1595,6 @@
     "at": "2026-11-13T04:01:47Z",
     "region_id": 26,
     "slug": "chernivtsi",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T04:01:13Z"
-  },
-  {
-    "at": "2026-11-13T04:01:47Z",
-    "region_id": 18,
-    "slug": "odesa",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T04:01:13Z"
-  },
-  {
-    "at": "2026-11-13T04:01:47Z",
-    "region_id": 17,
-    "slug": "mykolaiv",
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-11-13T04:01:13Z"

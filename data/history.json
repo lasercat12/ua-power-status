@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-11-20T06:01:47Z",
+    "region_id": 11,
+    "slug": "zakarpattia",
+    "from": "normal",
+    "to": "emergency_outages",
+    "since": "2026-11-20T06:01:03Z"
+  },
+  {
+    "at": "2026-11-20T06:01:47Z",
+    "region_id": 4,
+    "slug": "vinnytsia",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-20T06:00:05Z"
+  },
+  {
     "at": "2026-11-20T04:03:32Z",
     "region_id": 24,
     "slug": "cherkasy",
@@ -1579,22 +1595,6 @@
     "at": "2026-11-13T04:01:47Z",
     "region_id": 15,
     "slug": "kirovohrad",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T04:01:13Z"
-  },
-  {
-    "at": "2026-11-13T04:01:47Z",
-    "region_id": 12,
-    "slug": "zaporizhzhia",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T04:01:13Z"
-  },
-  {
-    "at": "2026-11-13T04:01:47Z",
-    "region_id": 4,
-    "slug": "vinnytsia",
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-11-13T04:01:13Z"

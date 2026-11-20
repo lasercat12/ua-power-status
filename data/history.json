@@ -1,5 +1,29 @@
 [
   {
+    "at": "2026-11-20T07:55:58Z",
+    "region_id": 21,
+    "slug": "ternopil",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-20T07:55:30Z"
+  },
+  {
+    "at": "2026-11-20T07:55:58Z",
+    "region_id": 8,
+    "slug": "volyn",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-20T07:55:30Z"
+  },
+  {
+    "at": "2026-11-20T07:55:58Z",
+    "region_id": 5,
+    "slug": "rivne",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-20T07:55:30Z"
+  },
+  {
     "at": "2026-11-20T06:59:23Z",
     "region_id": 27,
     "slug": "lviv",
@@ -1574,29 +1598,5 @@
     "from": "outage_schedules",
     "to": "emergency_outages",
     "since": "2026-11-14T07:40:09Z"
-  },
-  {
-    "at": "2026-11-14T07:03:12Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "shortage",
-    "to": "grid_damage",
-    "since": "2026-11-14T07:02:32Z"
-  },
-  {
-    "at": "2026-11-13T23:47:54Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T23:47:28Z"
-  },
-  {
-    "at": "2026-11-13T22:33:00Z",
-    "region_id": 24,
-    "slug": "cherkasy",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-13T22:31:48Z"
   }
 ]

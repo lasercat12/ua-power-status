@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-11-21T14:05:47Z",
+    "region_id": 27,
+    "slug": "lviv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T14:04:41Z"
+  },
+  {
+    "at": "2026-11-21T14:05:47Z",
+    "region_id": 13,
+    "slug": "ivano-frankivsk",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T14:04:41Z"
+  },
+  {
+    "at": "2026-11-21T14:05:47Z",
+    "region_id": 11,
+    "slug": "zakarpattia",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T14:04:41Z"
+  },
+  {
+    "at": "2026-11-21T14:05:47Z",
+    "region_id": 8,
+    "slug": "volyn",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T14:04:41Z"
+  },
+  {
+    "at": "2026-11-21T14:05:47Z",
+    "region_id": 5,
+    "slug": "rivne",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T14:04:41Z"
+  },
+  {
     "at": "2026-11-20T07:55:58Z",
     "region_id": 21,
     "slug": "ternopil",
@@ -1558,45 +1598,5 @@
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-11-14T16:15:38Z"
-  },
-  {
-    "at": "2026-11-14T14:13:23Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-14T14:12:23Z"
-  },
-  {
-    "at": "2026-11-14T14:13:23Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-14T14:12:23Z"
-  },
-  {
-    "at": "2026-11-14T14:13:23Z",
-    "region_id": 12,
-    "slug": "zaporizhzhia",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-14T14:12:23Z"
-  },
-  {
-    "at": "2026-11-14T14:11:22Z",
-    "region_id": 9,
-    "slug": "dnipropetrovsk",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-14T14:10:40Z"
-  },
-  {
-    "at": "2026-11-14T07:40:39Z",
-    "region_id": 9,
-    "slug": "dnipropetrovsk",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-14T07:40:09Z"
   }
 ]

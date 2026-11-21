@@ -1,5 +1,37 @@
 [
   {
+    "at": "2026-11-21T22:01:28Z",
+    "region_id": 17,
+    "slug": "mykolaiv",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T21:13:57Z"
+  },
+  {
+    "at": "2026-11-21T22:01:28Z",
+    "region_id": 15,
+    "slug": "kirovohrad",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T21:13:57Z"
+  },
+  {
+    "at": "2026-11-21T22:01:28Z",
+    "region_id": 12,
+    "slug": "zaporizhzhia",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T21:13:57Z"
+  },
+  {
+    "at": "2026-11-21T22:01:28Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-21T21:13:57Z"
+  },
+  {
     "at": "2026-11-21T20:13:09Z",
     "region_id": 18,
     "slug": "odesa",
@@ -1563,38 +1595,6 @@
     "at": "2026-11-15T08:42:39Z",
     "region_id": 20,
     "slug": "sumy",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-11-15T08:42:10Z"
-  },
-  {
-    "at": "2026-11-15T08:42:39Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-11-15T08:42:10Z"
-  },
-  {
-    "at": "2026-11-15T08:42:39Z",
-    "region_id": 18,
-    "slug": "odesa",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-11-15T08:42:10Z"
-  },
-  {
-    "at": "2026-11-15T08:42:39Z",
-    "region_id": 17,
-    "slug": "mykolaiv",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-11-15T08:42:10Z"
-  },
-  {
-    "at": "2026-11-15T08:42:39Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
     "from": "shortage",
     "to": "normal",
     "since": "2026-11-15T08:42:10Z"

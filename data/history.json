@@ -1,5 +1,85 @@
 [
   {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 26,
+    "slug": "chernivtsi",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 21,
+    "slug": "ternopil",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 4,
+    "slug": "vinnytsia",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
+    "at": "2026-11-22T12:34:56Z",
+    "region_id": 3,
+    "slug": "khmelnytskyi",
+    "from": "normal",
+    "to": "shortage",
+    "since": "2026-11-22T12:34:11Z"
+  },
+  {
     "at": "2026-11-22T11:55:29Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1518,85 +1598,5 @@
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 17,
-    "slug": "mykolaiv",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 13,
-    "slug": "ivano-frankivsk",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 3,
-    "slug": "khmelnytskyi",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T11:16:28Z",
-    "region_id": 12,
-    "slug": "zaporizhzhia",
-    "from": "normal",
-    "to": "grid_damage",
-    "since": "2026-11-15T11:16:10Z"
-  },
-  {
-    "at": "2026-11-15T11:16:28Z",
-    "region_id": 9,
-    "slug": "dnipropetrovsk",
-    "from": "emergency_outages",
-    "to": "grid_damage",
-    "since": "2026-11-15T11:16:10Z"
-  },
-  {
-    "at": "2026-11-15T10:34:58Z",
-    "region_id": 9,
-    "slug": "dnipropetrovsk",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-15T10:34:18Z"
-  },
-  {
-    "at": "2026-11-15T08:42:39Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-11-15T08:42:10Z"
-  },
-  {
-    "at": "2026-11-15T08:42:39Z",
-    "region_id": 26,
-    "slug": "chernivtsi",
-    "from": "shortage",
-    "to": "normal",
-    "since": "2026-11-15T08:42:10Z"
   }
 ]

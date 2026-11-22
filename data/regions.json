@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T11:55:29Z",
-  "changed_at": "2026-11-22T11:55:29Z",
+  "generated_at": "2026-11-22T12:34:56Z",
+  "changed_at": "2026-11-22T12:34:56Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -46,14 +46,17 @@
       "slug": "khmelnytskyi",
       "name_uk": "Хмельницька область",
       "name_en": "Khmelnytskyi Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -61,14 +64,17 @@
       "slug": "vinnytsia",
       "name_uk": "Вінницька область",
       "name_en": "Vinnytsia Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -121,14 +127,17 @@
       "slug": "zhytomyr",
       "name_uk": "Житомирська область",
       "name_en": "Zhytomyr Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -259,14 +268,17 @@
       "slug": "poltava",
       "name_uk": "Полтавська область",
       "name_en": "Poltava Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -274,14 +286,17 @@
       "slug": "sumy",
       "name_uk": "Сумська область",
       "name_en": "Sumy Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -289,14 +304,17 @@
       "slug": "ternopil",
       "name_uk": "Тернопільська область",
       "name_en": "Ternopil Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -304,14 +322,17 @@
       "slug": "kharkiv",
       "name_uk": "Харківська область",
       "name_en": "Kharkiv Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -334,14 +355,17 @@
       "slug": "cherkasy",
       "name_uk": "Черкаська область",
       "name_en": "Cherkasy Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -349,14 +373,17 @@
       "slug": "chernihiv",
       "name_uk": "Чернігівська область",
       "name_en": "Chernihiv Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -364,14 +391,17 @@
       "slug": "chernivtsi",
       "name_uk": "Чернівецька область",
       "name_en": "Chernivtsi Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T12:34:11Z",
+      "period": {
+        "start": "2026-11-22T13:00:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {

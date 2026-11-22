@@ -1,5 +1,21 @@
 [
   {
+    "at": "2026-11-22T12:36:57Z",
+    "region_id": 12,
+    "slug": "zaporizhzhia",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-22T12:36:03Z"
+  },
+  {
+    "at": "2026-11-22T12:36:57Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-22T12:36:03Z"
+  },
+  {
     "at": "2026-11-22T12:34:56Z",
     "region_id": 26,
     "slug": "chernivtsi",
@@ -1579,22 +1595,6 @@
     "at": "2026-11-15T15:21:24Z",
     "region_id": 20,
     "slug": "sumy",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 19,
-    "slug": "poltava",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-15T15:20:24Z"
-  },
-  {
-    "at": "2026-11-15T15:21:24Z",
-    "region_id": 18,
-    "slug": "odesa",
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-15T15:20:24Z"

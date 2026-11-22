@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T09:09:31Z",
-  "changed_at": "2026-11-21T22:01:28Z",
+  "generated_at": "2026-11-22T09:17:37Z",
+  "changed_at": "2026-11-22T09:17:37Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -181,14 +181,17 @@
       "slug": "kyiv-oblast",
       "name_uk": "Київська область",
       "name_en": "Kyiv Oblast",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T09:16:50Z",
+      "period": {
+        "start": "2026-11-22T09:11:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {
@@ -406,14 +409,17 @@
       "slug": "kyiv",
       "name_uk": "м. Київ",
       "name_en": "Kyiv",
-      "status": "normal",
-      "status_code": 3,
-      "emoji": "🟢",
-      "color": "#55a349",
-      "title_uk": "Електроенергії достатньо",
-      "title_en": "Sufficient electricity is available",
-      "since": "2026-11-21T20:08:51Z",
-      "period": null,
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-22T09:16:50Z",
+      "period": {
+        "start": "2026-11-22T09:11:00Z",
+        "end": "2026-11-22T21:59:00Z"
+      },
       "next_change": null
     },
     {

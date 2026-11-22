@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-22T13:56:51Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-22T13:56:07Z"
+  },
+  {
     "at": "2026-11-22T13:37:38Z",
     "region_id": 26,
     "slug": "chernivtsi",
@@ -1590,13 +1598,5 @@
     "from": "emergency_outages",
     "to": "outage_schedules",
     "since": "2026-11-15T21:57:24Z"
-  },
-  {
-    "at": "2026-11-15T15:25:26Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-15T15:24:48Z"
   }
 ]

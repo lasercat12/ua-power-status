@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-11-23T14:35:26Z",
+    "region_id": 27,
+    "slug": "lviv",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-23T14:34:58Z"
+  },
+  {
+    "at": "2026-11-23T14:35:26Z",
+    "region_id": 18,
+    "slug": "odesa",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-23T14:34:58Z"
+  },
+  {
+    "at": "2026-11-23T14:35:26Z",
+    "region_id": 11,
+    "slug": "zakarpattia",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-23T14:34:58Z"
+  },
+  {
+    "at": "2026-11-23T14:35:26Z",
+    "region_id": 8,
+    "slug": "volyn",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-23T14:34:58Z"
+  },
+  {
+    "at": "2026-11-23T14:35:26Z",
+    "region_id": 5,
+    "slug": "rivne",
+    "from": "normal",
+    "to": "outage_schedules",
+    "since": "2026-11-23T14:34:58Z"
+  },
+  {
     "at": "2026-11-23T04:59:37Z",
     "region_id": 13,
     "slug": "ivano-frankivsk",
@@ -1558,45 +1598,5 @@
     "from": "outage_schedules",
     "to": "shortage",
     "since": "2026-11-15T23:15:41Z"
-  },
-  {
-    "at": "2026-11-15T23:16:03Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-15T23:15:41Z"
-  },
-  {
-    "at": "2026-11-15T23:16:03Z",
-    "region_id": 4,
-    "slug": "vinnytsia",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-15T23:15:41Z"
-  },
-  {
-    "at": "2026-11-15T23:16:03Z",
-    "region_id": 3,
-    "slug": "khmelnytskyi",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-15T23:15:41Z"
-  },
-  {
-    "at": "2026-11-15T22:01:09Z",
-    "region_id": 40,
-    "slug": "crimea",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-15T21:59:47Z"
-  },
-  {
-    "at": "2026-11-15T21:58:07Z",
-    "region_id": 20,
-    "slug": "sumy",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-15T21:57:24Z"
   }
 ]

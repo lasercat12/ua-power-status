@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T01:20:05Z",
-  "changed_at": "2026-11-24T01:20:05Z",
+  "generated_at": "2026-11-24T01:21:05Z",
+  "changed_at": "2026-11-24T01:21:05Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -442,10 +442,10 @@
       "color": "#f9ac1a",
       "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
       "title_en": "Please use electricity sparingly",
-      "since": "2026-11-23T16:34:08Z",
+      "since": "2026-11-24T01:20:14Z",
       "period": {
-        "start": "2026-11-23T16:45:00Z",
-        "end": "2026-11-23T21:59:00Z"
+        "start": "2026-11-23T22:00:00Z",
+        "end": "2026-11-24T06:00:00Z"
       },
       "next_change": null
     },

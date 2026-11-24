@@ -1,5 +1,45 @@
 [
   {
+    "at": "2026-11-24T02:02:35Z",
+    "region_id": 31,
+    "slug": "kyiv",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-24T02:02:15Z"
+  },
+  {
+    "at": "2026-11-24T02:02:35Z",
+    "region_id": 25,
+    "slug": "chernihiv",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-24T02:02:15Z"
+  },
+  {
+    "at": "2026-11-24T02:02:35Z",
+    "region_id": 24,
+    "slug": "cherkasy",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-24T02:02:15Z"
+  },
+  {
+    "at": "2026-11-24T02:02:35Z",
+    "region_id": 14,
+    "slug": "kyiv-oblast",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-24T02:02:15Z"
+  },
+  {
+    "at": "2026-11-24T02:02:35Z",
+    "region_id": 10,
+    "slug": "zhytomyr",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-24T02:02:15Z"
+  },
+  {
     "at": "2026-11-24T01:15:02Z",
     "region_id": 31,
     "slug": "kyiv",
@@ -1558,45 +1598,5 @@
     "from": "grid_damage",
     "to": "outage_schedules",
     "since": "2026-11-16T08:00:10Z"
-  },
-  {
-    "at": "2026-11-15T23:35:13Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-15T23:34:25Z"
-  },
-  {
-    "at": "2026-11-15T23:34:13Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
-    "from": "outage_schedules",
-    "to": "shortage",
-    "since": "2026-11-15T23:33:18Z"
-  },
-  {
-    "at": "2026-11-15T23:21:05Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-15T23:19:56Z"
-  },
-  {
-    "at": "2026-11-15T23:21:05Z",
-    "region_id": 26,
-    "slug": "chernivtsi",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-15T23:19:56Z"
-  },
-  {
-    "at": "2026-11-15T23:21:05Z",
-    "region_id": 25,
-    "slug": "chernihiv",
-    "from": "shortage",
-    "to": "outage_schedules",
-    "since": "2026-11-15T23:19:56Z"
   }
 ]

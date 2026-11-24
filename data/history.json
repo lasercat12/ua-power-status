@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-24T22:38:57Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-24T22:35:51Z"
+  },
+  {
     "at": "2026-11-24T19:26:45Z",
     "region_id": 27,
     "slug": "lviv",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-17T03:31:10Z",
     "region_id": 19,
     "slug": "poltava",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-17T03:30:37Z"
-  },
-  {
-    "at": "2026-11-17T03:31:10Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-17T03:30:37Z"

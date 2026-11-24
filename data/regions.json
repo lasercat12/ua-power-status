@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T05:26:58Z",
-  "changed_at": "2026-11-24T03:25:32Z",
+  "generated_at": "2026-11-24T05:48:13Z",
+  "changed_at": "2026-11-24T05:48:13Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -82,16 +82,16 @@
       "slug": "rivne",
       "name_uk": "Рівненська область",
       "name_en": "Rivne Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-24T01:18:49Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-24T05:47:50Z",
       "period": {
-        "start": "2026-11-23T22:00:00Z",
-        "end": "2026-11-24T06:00:00Z"
+        "start": "2026-11-24T06:00:00Z",
+        "end": "2026-11-24T21:59:00Z"
       },
       "next_change": null
     },
@@ -100,16 +100,16 @@
       "slug": "volyn",
       "name_uk": "Волинська область",
       "name_en": "Volyn Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-24T01:19:20Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-24T05:47:50Z",
       "period": {
-        "start": "2026-11-23T22:00:00Z",
-        "end": "2026-11-24T06:00:00Z"
+        "start": "2026-11-24T06:00:00Z",
+        "end": "2026-11-24T21:59:00Z"
       },
       "next_change": null
     },
@@ -154,16 +154,16 @@
       "slug": "zakarpattia",
       "name_uk": "Закарпатська область",
       "name_en": "Zakarpattia Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-24T01:19:51Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-24T05:47:50Z",
       "period": {
-        "start": "2026-11-23T22:00:00Z",
-        "end": "2026-11-24T06:00:00Z"
+        "start": "2026-11-24T06:00:00Z",
+        "end": "2026-11-24T21:59:00Z"
       },
       "next_change": null
     },
@@ -436,16 +436,16 @@
       "slug": "lviv",
       "name_uk": "Львівська область",
       "name_en": "Lviv Oblast",
-      "status": "shortage",
-      "status_code": 4,
-      "emoji": "🟡",
-      "color": "#f9ac1a",
-      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
-      "title_en": "Please use electricity sparingly",
-      "since": "2026-11-24T01:20:14Z",
+      "status": "outage_schedules",
+      "status_code": 9,
+      "emoji": "🔴",
+      "color": "#c82400",
+      "title_uk": "Застосовані графіки погодинних відключень",
+      "title_en": "Hourly outage schedules are in effect",
+      "since": "2026-11-24T05:47:50Z",
       "period": {
-        "start": "2026-11-23T22:00:00Z",
-        "end": "2026-11-24T06:00:00Z"
+        "start": "2026-11-24T06:00:00Z",
+        "end": "2026-11-24T21:59:00Z"
       },
       "next_change": null
     },

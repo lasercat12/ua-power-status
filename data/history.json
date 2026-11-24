@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-24T10:17:20Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "outage_schedules",
+    "to": "emergency_outages",
+    "since": "2026-11-24T10:16:58Z"
+  },
+  {
     "at": "2026-11-24T09:50:01Z",
     "region_id": 27,
     "slug": "lviv",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-17T03:28:08Z",
     "region_id": 10,
     "slug": "zhytomyr",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-17T03:27:44Z"
-  },
-  {
-    "at": "2026-11-17T03:28:08Z",
-    "region_id": 4,
-    "slug": "vinnytsia",
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-11-17T03:27:44Z"

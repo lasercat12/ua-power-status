@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-25T04:56:04Z",
+    "region_id": 21,
+    "slug": "ternopil",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-25T04:43:37Z"
+  },
+  {
     "at": "2026-11-25T04:53:03Z",
     "region_id": 13,
     "slug": "ivano-frankivsk",
@@ -1590,13 +1598,5 @@
     "from": "emergency_outages",
     "to": "outage_schedules",
     "since": "2026-11-17T05:28:18Z"
-  },
-  {
-    "at": "2026-11-17T04:23:48Z",
-    "region_id": 22,
-    "slug": "kharkiv",
-    "from": "outage_schedules",
-    "to": "emergency_outages",
-    "since": "2026-11-17T04:22:56Z"
   }
 ]

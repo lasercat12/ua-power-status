@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T04:51:01Z",
-  "changed_at": "2026-11-25T04:51:01Z",
+  "generated_at": "2026-11-25T04:53:03Z",
+  "changed_at": "2026-11-25T04:53:03Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -181,16 +181,16 @@
       "slug": "ivano-frankivsk",
       "name_uk": "Івано-Франківська область",
       "name_en": "Ivano-Frankivsk Oblast",
-      "status": "outage_schedules",
-      "status_code": 9,
-      "emoji": "🔴",
-      "color": "#c82400",
-      "title_uk": "Застосовані графіки погодинних відключень",
-      "title_en": "Hourly outage schedules are in effect",
-      "since": "2026-11-24T03:24:33Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-25T04:43:37Z",
       "period": {
-        "start": "2026-11-24T04:00:00Z",
-        "end": "2026-11-24T21:59:00Z"
+        "start": "2026-11-25T01:30:00Z",
+        "end": "2026-11-25T21:59:00Z"
       },
       "next_change": null
     },

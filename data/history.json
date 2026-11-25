@@ -1,5 +1,53 @@
 [
   {
+    "at": "2026-11-25T13:49:09Z",
+    "region_id": 21,
+    "slug": "ternopil",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-25T13:48:04Z"
+  },
+  {
+    "at": "2026-11-25T13:49:09Z",
+    "region_id": 18,
+    "slug": "odesa",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-25T13:48:04Z"
+  },
+  {
+    "at": "2026-11-25T13:49:09Z",
+    "region_id": 17,
+    "slug": "mykolaiv",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-25T13:48:04Z"
+  },
+  {
+    "at": "2026-11-25T13:49:09Z",
+    "region_id": 13,
+    "slug": "ivano-frankivsk",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-25T13:48:04Z"
+  },
+  {
+    "at": "2026-11-25T13:49:09Z",
+    "region_id": 4,
+    "slug": "vinnytsia",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-25T13:48:04Z"
+  },
+  {
+    "at": "2026-11-25T13:49:09Z",
+    "region_id": 3,
+    "slug": "khmelnytskyi",
+    "from": "shortage",
+    "to": "outage_schedules",
+    "since": "2026-11-25T13:48:04Z"
+  },
+  {
     "at": "2026-11-25T11:00:18Z",
     "region_id": 21,
     "slug": "ternopil",
@@ -1550,53 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-11-19T04:20:41Z"
-  },
-  {
-    "at": "2026-11-19T04:20:46Z",
-    "region_id": 8,
-    "slug": "volyn",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-19T04:20:04Z"
-  },
-  {
-    "at": "2026-11-19T04:19:46Z",
-    "region_id": 26,
-    "slug": "chernivtsi",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-19T04:19:18Z"
-  },
-  {
-    "at": "2026-11-19T04:19:46Z",
-    "region_id": 23,
-    "slug": "kherson",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-19T04:19:18Z"
-  },
-  {
-    "at": "2026-11-19T04:19:46Z",
-    "region_id": 14,
-    "slug": "kyiv-oblast",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-19T04:19:18Z"
-  },
-  {
-    "at": "2026-11-19T04:19:46Z",
-    "region_id": 9,
-    "slug": "dnipropetrovsk",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-19T04:19:18Z"
-  },
-  {
-    "at": "2026-11-19T04:19:46Z",
-    "region_id": 8,
-    "slug": "volyn",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-19T04:19:18Z"
   }
 ]

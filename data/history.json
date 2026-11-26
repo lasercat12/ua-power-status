@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-26T19:24:04Z",
+    "region_id": 23,
+    "slug": "kherson",
+    "from": "normal",
+    "to": "grid_damage",
+    "since": "2026-11-26T19:23:27Z"
+  },
+  {
     "at": "2026-11-26T19:01:49Z",
     "region_id": 17,
     "slug": "mykolaiv",
@@ -1590,13 +1598,5 @@
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-20T04:02:17Z"
-  },
-  {
-    "at": "2026-11-19T21:49:38Z",
-    "region_id": 31,
-    "slug": "kyiv",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-19T21:48:49Z"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "at": "2026-11-26T21:02:14Z",
+    "region_id": 22,
+    "slug": "kharkiv",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-26T21:01:48Z"
+  },
+  {
+    "at": "2026-11-26T21:02:14Z",
+    "region_id": 20,
+    "slug": "sumy",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-26T21:01:48Z"
+  },
+  {
+    "at": "2026-11-26T21:02:14Z",
+    "region_id": 19,
+    "slug": "poltava",
+    "from": "outage_schedules",
+    "to": "shortage",
+    "since": "2026-11-26T21:01:48Z"
+  },
+  {
     "at": "2026-11-26T19:24:04Z",
     "region_id": 23,
     "slug": "kherson",
@@ -1574,29 +1598,5 @@
     "from": "normal",
     "to": "outage_schedules",
     "since": "2026-11-20T06:00:05Z"
-  },
-  {
-    "at": "2026-11-20T04:03:32Z",
-    "region_id": 24,
-    "slug": "cherkasy",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-20T04:02:17Z"
-  },
-  {
-    "at": "2026-11-20T04:03:32Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-20T04:02:17Z"
-  },
-  {
-    "at": "2026-11-20T04:03:32Z",
-    "region_id": 9,
-    "slug": "dnipropetrovsk",
-    "from": "normal",
-    "to": "outage_schedules",
-    "since": "2026-11-20T04:02:17Z"
   }
 ]

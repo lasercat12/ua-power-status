@@ -1,5 +1,29 @@
 [
   {
+    "at": "2026-11-26T03:58:09Z",
+    "region_id": 15,
+    "slug": "kirovohrad",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-26T03:57:14Z"
+  },
+  {
+    "at": "2026-11-26T03:58:09Z",
+    "region_id": 12,
+    "slug": "zaporizhzhia",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-26T03:57:14Z"
+  },
+  {
+    "at": "2026-11-26T03:58:09Z",
+    "region_id": 9,
+    "slug": "dnipropetrovsk",
+    "from": "emergency_outages",
+    "to": "outage_schedules",
+    "since": "2026-11-26T03:57:14Z"
+  },
+  {
     "at": "2026-11-25T14:43:47Z",
     "region_id": 17,
     "slug": "mykolaiv",
@@ -1574,29 +1598,5 @@
     "from": "outage_schedules",
     "to": "normal",
     "since": "2026-11-19T21:48:49Z"
-  },
-  {
-    "at": "2026-11-19T21:49:38Z",
-    "region_id": 10,
-    "slug": "zhytomyr",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-19T21:48:49Z"
-  },
-  {
-    "at": "2026-11-19T05:44:38Z",
-    "region_id": 15,
-    "slug": "kirovohrad",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-19T05:44:16Z"
-  },
-  {
-    "at": "2026-11-19T05:44:38Z",
-    "region_id": 12,
-    "slug": "zaporizhzhia",
-    "from": "outage_schedules",
-    "to": "normal",
-    "since": "2026-11-19T05:43:58Z"
   }
 ]

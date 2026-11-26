@@ -1,5 +1,13 @@
 [
   {
+    "at": "2026-11-26T22:03:57Z",
+    "region_id": 28,
+    "slug": "donetsk",
+    "from": "outage_schedules",
+    "to": "normal",
+    "since": "2026-11-26T22:03:51Z"
+  },
+  {
     "at": "2026-11-26T22:01:56Z",
     "region_id": 25,
     "slug": "chernihiv",
@@ -1587,14 +1595,6 @@
     "at": "2026-11-20T06:59:23Z",
     "region_id": 13,
     "slug": "ivano-frankivsk",
-    "from": "emergency_outages",
-    "to": "outage_schedules",
-    "since": "2026-11-20T06:58:18Z"
-  },
-  {
-    "at": "2026-11-20T06:59:23Z",
-    "region_id": 11,
-    "slug": "zakarpattia",
     "from": "emergency_outages",
     "to": "outage_schedules",
     "since": "2026-11-20T06:58:18Z"

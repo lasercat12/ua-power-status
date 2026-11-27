@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T18:34:31Z",
-  "changed_at": "2026-11-27T18:34:31Z",
+  "generated_at": "2026-11-27T18:35:31Z",
+  "changed_at": "2026-11-27T18:35:31Z",
   "source": "НЕК «Укренерго» — неофіційно, без гарантій",
   "statuses": {
     "normal": {
@@ -367,16 +367,16 @@
       "slug": "kherson",
       "name_uk": "Херсонська область",
       "name_en": "Kherson Oblast",
-      "status": "grid_damage",
-      "status_code": 11,
-      "emoji": "⚫️",
-      "color": "#006600",
-      "title_uk": "Знеструмлення – наслідок пошкодження мережі",
-      "title_en": "Power outage caused by grid damage",
-      "since": "2026-11-26T19:23:27Z",
+      "status": "shortage",
+      "status_code": 4,
+      "emoji": "🟡",
+      "color": "#f9ac1a",
+      "title_uk": "Будь ласка, споживайте електроенергію ощадливо",
+      "title_en": "Please use electricity sparingly",
+      "since": "2026-11-27T18:34:37Z",
       "period": {
-        "start": "2026-11-26T18:32:00Z",
-        "end": "2026-11-26T21:00:00Z"
+        "start": "2026-11-27T18:30:00Z",
+        "end": "2026-11-27T21:59:00Z"
       },
       "next_change": null
     },
